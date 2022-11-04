@@ -47,6 +47,7 @@ montega = mysql.connector.connect(
     passwd=_PASSWORD
 )
 
+
 def main():
     print("Hello World")
 
